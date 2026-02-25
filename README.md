@@ -1,8 +1,9 @@
 # 🚀 EBITSaaS
 
 <p align="left">
-  <img src="/logo.jpg" alt="EBITSaaS Logo" width="180" />
+  <img src="assets/ebitsaas-logo.jpg" alt="EBITSaaS Logo" width="180" />
 </p>
+
 
 **Secure, Scalable & Modern SaaS Solutions**
 
