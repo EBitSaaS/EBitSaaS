@@ -1,14 +1,21 @@
-# 🚀 EBITSaaS
+<!-- MAIN HEADING + LOGO -->
 
-<p align="left">
-  <img src="assets/ebitsaas-logo.png" alt="EBITSaaS Logo" width="180" />
+<p align="center">
+  <img src="assets/ebitsaas-logo.png" alt="EBITSaaS Logo" width="220" />
 </p>
 
+<h1 align="center">🚀 EBITSaaS</h1>
 
-**Secure, Scalable & Modern SaaS Solutions**
+<p align="center">
+  <b>Secure, Scalable & Modern SaaS Solutions</b><br/>
+  SaaS-based software company helping businesses build reliable, cloud-native applications.
+</p>
 
-EBITSaaS ek SaaS-based software company hai jo businesses ke liye
-secure, scalable aur modern web applications banati hai.
+<p align="center">
+  <a href="www.ebitsaas.com">🌐 Website</a> •
+  <a href="mailto:hello@ebitsaas.com">📧 Email</a> •
+  <span>📍 Karachi, Pakistan</span>
+</p>
 
 ---
 
@@ -22,19 +29,10 @@ secure, scalable aur modern web applications banati hai.
 
 ## 🎯 What We Do
 
-- SaaS product development (web & cloud based systems)  
+- SaaS product development (web & cloud-based systems)  
 - Cloud infrastructure & deployment (AWS, etc.)  
 - Secure backend APIs & architecture  
 - Business automation systems  
-
----
-
-## 🛠 Tech Stack
-
-- Frontend: React, Next.js, HTML, CSS, JavaScript  
-- Backend: Node.js, Python (FastAPI/Django), etc.  
-- Database: PostgreSQL, MongoDB  
-- Cloud: AWS (ya jo aap use karti hain)  
 
 ---
 
@@ -48,10 +46,12 @@ secure, scalable aur modern web applications banati hai.
 
 ## 📞 Contact
 
-- Email: `hello@ebitsaas.com` 
-- Website: `https://ebitsaas.com` 
+- Email: <a href="mailto:hello@ebitsaas.com">hello@ebitsaas.com</a>  
+- Website: <a href="www.ebitsaas.com">www.ebitsaas.com</a>  
 - Location: Karachi, Pakistan  
 
 ---
 
-_© EBITSaaS – All rights reserved._
+<p align="center">
+  <i>© EBITSaaS – All rights reserved.</i>
+</p>
