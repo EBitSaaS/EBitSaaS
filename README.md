@@ -1,7 +1,7 @@
 # 🚀 EBITSaaS
 
 <p align="left">
-  <img src="assets/ebitsaas-logo.jpg" alt="EBITSaaS Logo" width="180" />
+  <img src="assets/ebitsaas-logo.png" alt="EBITSaaS Logo" width="180" />
 </p>
 
 
