@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="www.ebitsaas.com">🌐 Website</a> •
+  <a href="https://www.ebitsaas.com">🌐 Website</a> •
   <a href="mailto:hello@ebitsaas.com">📧 Email</a> •
   <span>📍 Karachi, Pakistan</span>
 </p>
@@ -47,7 +47,7 @@
 ## 📞 Contact
 
 - Email: <a href="mailto:hello@ebitsaas.com">hello@ebitsaas.com</a>  
-- Website: <a href="www.ebitsaas.com">www.ebitsaas.com</a>  
+- Website: <a href="https://www.ebitsaas.com">www.ebitsaas.com</a>  
 - Location: Karachi, Pakistan  
 
 ---
